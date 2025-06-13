@@ -5,8 +5,9 @@
 > Hanyang University
 
 
-<a src="https://openaccess.thecvf.com/content/ACCV2024/html/O_SeSame_Simple_Easy_3D_Object_Detection_with_Point-Wise_Semantics_ACCV_2024_paper.html">
-<img src="https://img.shields.io/badge/2024-ACCV-blue"></a>
+<a href="https://openaccess.thecvf.com/content/ACCV2024/html/O_SeSame_Simple_Easy_3D_Object_Detection_with_Point-Wise_Semantics_ACCV_2024_paper.html">
+  <img src="https://img.shields.io/badge/2024-ACCV-blue">
+</a>
 
 
 <div align="center">
