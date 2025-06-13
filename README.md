@@ -4,8 +4,10 @@
 > [Hayeon O](https://scholar.google.com/citations?user=KDQukv0AAAAJ&hl=ko), [Chanuk Yang](https://ieeexplore.ieee.org/author/37089004272), [Kunsoo Huh](https://scholar.google.com/citations?user=iRQAwt8AAAAJ&hl=ko&oi=ao) \
 > Hanyang University
 
-<a src="https://img.shields.io/badge/cs.CV-2404.12389-b31b1b?logo=arxiv&logoColor=red" href="https://arxiv.org/abs/2403.06501">  
-<img src="https://img.shields.io/badge/cs.CV-2404.12389-b31b1b?logo=arxiv&logoColor=red"></a>
+
+<a src="https://openaccess.thecvf.com/content/ACCV2024/html/O_SeSame_Simple_Easy_3D_Object_Detection_with_Point-Wise_Semantics_ACCV_2024_paper.html">
+<img src="https://img.shields.io/badge/2024-ACCV-blue"></a>
+
 
 <div align="center">
     <img src="./figure/whole_flow.jpg" alt="overview" width="60%">
