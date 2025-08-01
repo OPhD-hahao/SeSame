@@ -178,7 +178,7 @@ Thanks for the opensource codes from [Cylinder3D](https://github.com/xinge008/Cy
 # Citation
 ```
 @InProceedings{O_2024_ACCV,
-    author    = {O, Hayeon and Yang, Chanuk and Huh, Kunsoo},
+    author    = {Oh, Hayeon and Yang, Chanuk and Huh, Kunsoo},
     title     = {SeSame: Simple, Easy 3D Object Detection with Point-Wise Semantics},
     booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
     month     = {December},
