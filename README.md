@@ -1,7 +1,7 @@
 # SeSame: Simple, Easy 3D Object Detection with Point-Wise Semantics
 
 > ***SeSame: Simple, Easy 3D Object Detection with Point-Wise Semantics*** \
-> [Hayeon O](https://scholar.google.com/citations?user=KDQukv0AAAAJ&hl=ko), [Chanuk Yang](https://ieeexplore.ieee.org/author/37089004272), [Kunsoo Huh](https://scholar.google.com/citations?user=iRQAwt8AAAAJ&hl=ko&oi=ao) \
+> [Hayeon Oh](https://scholar.google.com/citations?user=KDQukv0AAAAJ&hl=ko), [Chanuk Yang](https://ieeexplore.ieee.org/author/37089004272), [Kunsoo Huh](https://scholar.google.com/citations?user=iRQAwt8AAAAJ&hl=ko&oi=ao) \
 > Hanyang University
 
 
